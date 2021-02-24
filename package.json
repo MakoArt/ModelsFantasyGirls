@@ -1,0 +1,19 @@
+{
+  "name": "fotografiafantasygirls",
+  "version": "1.0.0",
+  "description": "Fotografia Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakoArt/ModelsFantasyGirls.git"
+  },
+  "author": "Manuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakoArt/ModelsFantasyGirls/issues"
+  },
+  "homepage": "https://github.com/MakoArt/ModelsFantasyGirls#readme"
+}
