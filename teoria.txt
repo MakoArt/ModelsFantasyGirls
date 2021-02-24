@@ -1,0 +1,9 @@
+express: crear rutas en node 
+nodemon:automatizar el servidor  
+mongoose:se dedica a la conexion a la base de datos  
+cors: habilitar las conexiones entre los clientes y el backend 
+morgan: sirve para visualizar las peticiones en el servidor 
+body-parser:sirve para enviar al servidor peticiones en formato url encode y tambien para 
+recibirlas 
+bcryptjs:proteccion de contraseñas 
+jsonwebtoken: autentificacion de usuarios 
