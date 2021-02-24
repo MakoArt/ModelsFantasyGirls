@@ -23,6 +23,9 @@ app.use(bodyParser.json())
 //cors configuración
 app.use(cors({origin:'*'}))
 
+//Rutas 
+
+app.use('/fotografos',require('./routes/Fotografos.routes'))
 
 //lanzar el servidor
 
